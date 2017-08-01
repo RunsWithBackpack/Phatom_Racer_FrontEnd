@@ -1,0 +1,47 @@
+{
+  "name": "ReactNativeMaps",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "mocha ./tests --recursive --watch --compilers js:babel-register"
+  },
+  "dependencies": {
+    "axios": "^0.16.1",
+    "chai": "^3.5.0",
+    "cocoa-lumberjack": "^3.0.3",
+    "geolib": "^2.0.22",
+    "minutes-seconds-milliseconds": "^1.0.3",
+    "qs": "^6.4.0",
+    "react": "16.0.0-alpha.6",
+    "react-native": "0.43.4",
+    "react-native-background-fetch": "^2.0.5",
+    "react-native-background-geolocation": "^2.7.0",
+    "react-native-maps": "^0.13.0",
+    "react-navigation": "^1.0.0-beta.9",
+    "react-redux": "^5.0.4",
+    "react-timeout": "^1.0.0",
+    "redux": "^3.6.0",
+    "redux-logger": "^3.0.1",
+    "redux-thunk": "^2.2.0"
+  },
+  "devDependencies": {
+    "babel-jest": "19.0.0",
+    "babel-plugin-module-resolver": "^2.7.0",
+    "babel-preset-react-native": "1.9.1",
+    "chai": "^3.5.0",
+    "chai-enzyme": "^0.7.1",
+    "enzyme": "^2.8.2",
+    "jest": "19.0.2",
+    "mocha": "^3.4.2",
+    "react-test-renderer": "16.0.0-alpha.6"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts"
+    ]
+  }
+}
