@@ -1,4 +1,17 @@
-Directions for Repo
+# PHANTOM RACER
+## A React Native iOS Fitness app for runners!
+### Virtually compete with other runners in your area!
+### Create routes and keep track of your speed and heart rate during your run!
+### Let the app generate optimal routes for you!
+
+
+![Phantom Racer Screencast](https://user-images.githubusercontent.com/20195591/28852068-21ac860a-76ec-11e7-8c4b-92a29c3f0f5d.gif)
+
+
+
+
+
+Directions for Phantom Racer Repo
 
 1. pull repo 
 2. yarn
