@@ -4,7 +4,7 @@
 ### This app lets you...
 - virtually compete with other runners in your area
 - create routes and keep track of your speed and heart rate during your runs
-- generates optimal routes for you based on how far you'd like to run
+- find the best local running routes: it can generate optimal routes for you based on how far you'd like to run
 
 
 ![Phantom Racer Screencast](https://user-images.githubusercontent.com/20195591/28852068-21ac860a-76ec-11e7-8c4b-92a29c3f0f5d.gif)
